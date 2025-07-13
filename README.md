@@ -2,6 +2,8 @@
 
 # 🛠 AgriChain - [Team Hackathians]
 
+# Repo Link - https://github.com/Lokesh-1511/AgriChain.git
+
 Welcome to our submission for the *Agentic Ethereum Hackathon* by Reskilll & Geodework! This repository includes our revolutionary agricultural marketplace that bridges farmers and consumers using AI-powered agents and blockchain technology.
 
 ---
